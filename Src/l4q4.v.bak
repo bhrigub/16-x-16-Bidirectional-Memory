@@ -1,0 +1,16 @@
+module l4q4 (inout [15:0] iop,input clk,en,input [3:0] addr);
+
+  reg [15:0] mem [15:0];
+  reg [15:0] temp ;
+   
+  bufif0 u0 (iop,temp,en);
+    
+  always @ (posedge clk)
+  begin
+    if(en==1)
+      mem[addr]<=iop;
+	  else 
+	  temp<=mem[addr];
+	  end
+    endmodule
+    

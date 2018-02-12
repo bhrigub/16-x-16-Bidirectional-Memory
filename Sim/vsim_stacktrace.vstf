@@ -1,0 +1,72 @@
+# Current time Fri May 29 18:50:41 2015
+# QuestaSim Stack Trace
+# Program = vsim
+# Id = "10.1d"
+# Version = "2012.11"
+# Date = "Nov  1 2012"
+# Platform = win32
+# 0    0x7323bdbc: '<unknown (@0x7323bdbc)>'
+# 1    0x007db9b8: '<unknown (@0x7db9b8)>'
+# 2    0x007dbb8a: '<unknown (@0x7dbb8a)>'
+# 3    0x007e57d0: '<unknown (@0x7e57d0)>'
+# 4    0x1000bdd4: 'TclInvokeStringCommand + 0x74' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 5    0x1000c770: 'TclEvalObjvInternal + 0x230' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 6    0x1000dd77: 'Tcl_EvalEx + 0x167' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 7    0x00a01728: '<unknown (@0xa01728)>'
+# 8    0x1003b375: 'Tcl_NotifyChannel + 0xd5' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 9    0x1006b4dd: 'TclpCreateProcess + 0xced' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 10   0x1004aed0: 'Tcl_ServiceEvent + 0x60' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 11   0x1004b11e: 'Tcl_DoOneEvent + 0x10e' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 12   0x00b4a7fc: '<unknown (@0xb4a7fc)>'
+# 13   0x0076d593: '<unknown (@0x76d593)>'
+# End of Stack Trace
+
+
+# Current time Fri May 29 18:52:17 2015
+# QuestaSim Stack Trace
+# Program = vsim
+# Id = "10.1d"
+# Version = "2012.11"
+# Date = "Nov  1 2012"
+# Platform = win32
+# 0    0x7323bdbc: '<unknown (@0x7323bdbc)>'
+# 1    0x007db9b8: '<unknown (@0x7db9b8)>'
+# 2    0x007dbb8a: '<unknown (@0x7dbb8a)>'
+# 3    0x007e57d0: '<unknown (@0x7e57d0)>'
+# 4    0x1000bdd4: 'TclInvokeStringCommand + 0x74' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 5    0x1000c770: 'TclEvalObjvInternal + 0x230' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 6    0x1000dd77: 'Tcl_EvalEx + 0x167' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 7    0x00a01728: '<unknown (@0xa01728)>'
+# 8    0x1003b375: 'Tcl_NotifyChannel + 0xd5' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 9    0x1006b4dd: 'TclpCreateProcess + 0xced' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 10   0x1004aed0: 'Tcl_ServiceEvent + 0x60' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 11   0x1004b11e: 'Tcl_DoOneEvent + 0x10e' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 12   0x00b4a7fc: '<unknown (@0xb4a7fc)>'
+# 13   0x0076d593: '<unknown (@0x76d593)>'
+# End of Stack Trace
+
+
+# Current time Fri May 29 18:54:06 2015
+# QuestaSim Stack Trace
+# Program = vsim
+# Id = "10.1d"
+# Version = "2012.11"
+# Date = "Nov  1 2012"
+# Platform = win32
+# 0    0x7323bdbc: '<unknown (@0x7323bdbc)>'
+# 1    0x007db9b8: '<unknown (@0x7db9b8)>'
+# 2    0x007dbb8a: '<unknown (@0x7dbb8a)>'
+# 3    0x007e57d0: '<unknown (@0x7e57d0)>'
+# 4    0x1000bdd4: 'TclInvokeStringCommand + 0x74' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 5    0x1000c770: 'TclEvalObjvInternal + 0x230' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 6    0x1000dd77: 'Tcl_EvalEx + 0x167' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 7    0x00a01728: '<unknown (@0xa01728)>'
+# 8    0x1003b375: 'Tcl_NotifyChannel + 0xd5' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 9    0x1006b4dd: 'TclpCreateProcess + 0xced' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 10   0x1004aed0: 'Tcl_ServiceEvent + 0x60' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 11   0x1004b11e: 'Tcl_DoOneEvent + 0x10e' in 'c:\questasim_10.1d\win32\tcl84.dll'
+# 12   0x00b4a7fc: '<unknown (@0xb4a7fc)>'
+# 13   0x0076d593: '<unknown (@0x76d593)>'
+# End of Stack Trace
+
+

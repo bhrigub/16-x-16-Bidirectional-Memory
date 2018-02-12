@@ -1,0 +1,178 @@
+# Reading C:/questasim_10.1d/tcl/vsim/pref.tcl 
+# //  Questa Sim
+# //  Version 10.1d win32 Nov  1 2012
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading project vhdl2008
+# reading C:\questasim_10.1d\win32/../modelsim.ini
+# Loading project l4q4
+project compileall
+# Compile of l4q4.v was successful.
+# Compile of tb_l4q4.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -novopt tbm
+# vsim -novopt tbm 
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Sim/work.tbm
+# Loading work.tbm
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Sim/work.l4q4
+# Loading work.l4q4
+add wave *
+run 320
+project compileall
+# Compile of l4q4.v failed with 2 errors.
+# Compile of tb_l4q4.v was successful.
+# 2 compiles, 1 failed with 2 errors. 
+project compileall
+# Compile of l4q4.v failed with 2 errors.
+# Compile of tb_l4q4.v was successful.
+# 2 compiles, 1 failed with 2 errors. 
+project compileall
+# Compile of l4q4.v was successful.
+# Compile of tb_l4q4.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -novopt tbm
+# vsim -novopt tbm 
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Sim/work.tbm
+# Loading work.tbm
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Sim/work.l4q4
+# Loading work.l4q4
+add wave *
+run 320
+vsim -novopt l4q4
+# vsim -novopt l4q4 
+# Loading work.l4q4
+add wave -r *
+force en 1; force addr 0; force clk 1 0, 0 5 -r 10; force iop 0;
+force en 1; force addr 0; force clk 1 0, 0 5 -r 10; force iop 0; run 10
+force en 1; force addr 1; force iop 1; run 10
+force en 1; force addr 2; force iop 2; run 10
+# Invalid binary digit: 2.
+# ** Error: (vsim-4011) Invalid force value: 2.
+# 
+force en 1; force addr 2; force iop 2; run 10
+# Invalid binary digit: 2.
+# ** Error: (vsim-4011) Invalid force value: 2.
+# 
+force en 1; force addr 0010; force iop 0000000000000010; run 10
+force en 1; force addr 0011; force iop 0000000000000011; run 10
+force en 1; force addr 0100; force iop 0000000000000100; run 10
+force en 1; force addr 0101; force iop 0000000000000101; run 10
+force en 0; force addr 0000; noforce iop; run 10
+force en 0; force addr 0000; run 10
+force en 0; force addr 0001; run 10
+force en 0; force addr 0011; run 10
+force en 0; force addr 0011; run 10
+force en 0; force addr 0100; run 10
+restart -f
+project compileall
+# Compile of l4q4.v was successful.
+# Compile of tb_l4q4.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim novopt tbm
+# vsim novopt tbm 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Error: Failed to find design unit work.novopt.
+# Optimization failed
+# Error loading design
+vsim novopt tbm
+# vsim novopt tbm 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Error: Failed to find design unit work.novopt.
+# Optimization failed
+# Error loading design
+vsim -novopt tbm
+# vsim -novopt tbm 
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Sim/work.tbm
+# Loading work.tbm
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Sim/work.l4q4
+# Loading work.l4q4
+add wave *
+run 320
+project compileall
+# Compile of l4q4.v was successful.
+# Compile of tb_l4q4.v was successful.
+# 2 compiles, 0 failed with no errors. 
+restart -f
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Sim/work.tbm
+# Loading work.tbm
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Sim/work.l4q4
+# Loading work.l4q4
+run 320
+project compileall
+# Compile of l4q4.v was successful.
+# Compile of tb_l4q4.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors. 
+restart -f
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Sim/work.l4q4
+# Loading work.l4q4
+run 320
+# Compile of l4q4.v was successful.
+# Compile of tb_l4q4.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors. 
+project compileall
+# Compile of l4q4.v was successful.
+# Compile of tb_l4q4.v was successful.
+# 2 compiles, 0 failed with no errors. 
+project compileall
+# Compile of l4q4.v was successful.
+# Compile of tb_l4q4.v was successful.
+# 2 compiles, 0 failed with no errors. 
+restart -f
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Sim/work.tbm
+# Loading work.tbm
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Sim/work.l4q4
+# Loading work.l4q4
+# ** Warning: (vsim-3015) C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Src/tb_l4q4.v(9): [PCDPC] - Port size (16 or 16) does not match connection size (1) for port 'iop'. The port definition is at: C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Src/l4q4.v(1).
+# 
+#         Region: /tbm/tb1
+run 320
+vsim -novopt tbm
+# vsim -novopt tbm 
+# Loading work.tbm
+# Loading work.l4q4
+# ** Warning: (vsim-3015) C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Src/tb_l4q4.v(9): [PCDPC] - Port size (16 or 16) does not match connection size (1) for port 'iop'. The port definition is at: C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Src/l4q4.v(1).
+# 
+#         Region: /tbm/tb1
+add wave *
+run 320
+project compileall
+# Compile of l4q4.v was successful.
+# Compile of tb_l4q4.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -novopt tbm
+# vsim -novopt tbm 
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Sim/work.tbm
+# Loading work.tbm
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Sim/work.l4q4
+# Loading work.l4q4
+add wave *
+run 320
+project compileall
+# Compile of l4q4.v was successful.
+# Compile of tb_l4q4.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -novopt tbm
+# vsim -novopt tbm 
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Sim/work.tbm
+# Loading work.tbm
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q4/Sim/work.l4q4
+# Loading work.l4q4
+add wave *
+run 320
+vsim -novopt l4q4
+# vsim -novopt l4q4 
+# Loading work.l4q4
+add wave *
+add wave -r *
+add wave -position end  sim:/l4q4/mem
+force clk 1 0, 0 5 -r 10; force en 1; force addr 0000; force iop 0000000000000000;
+run 10
+force addr 0001; force iop 0000000000000001; run 10
